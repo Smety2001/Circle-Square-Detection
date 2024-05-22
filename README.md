@@ -1,1 +1,1 @@
-# Luxonis-Test-Task
+# Circle-Square-Detection
